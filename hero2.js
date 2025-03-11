@@ -1,0 +1,1 @@
+let newhr = "hero 2 section";
